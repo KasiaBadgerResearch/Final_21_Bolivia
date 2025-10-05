@@ -1,0 +1,51 @@
+# How has the concentration of Bolivia’s population in large urban agglomerations (over 1 million inhabitants) evolved relative to overall urbanization between 1960 and 2024?
+
+import pandas as pd
+import matplotlib.pyplot as plt
+import os
+
+# Folders
+data_raw_folder = "data_raw/"
+data_clean_folder = "data_clean/"
+figures_folder = "figures/"
+
+# Load CSV
+filename = "urban-development_bol_filtered.csv"  # Filtered dataset with only relevant rows
+df = pd.read_csv(os.path.join(data_raw_folder, filename))
+
+# Keep only needed columns
+df = df[["Year", "Indicator Name", "Value"]]
+
+# Convert Year and Value to numeric, drop invalid rows
+df["Year"] = pd.to_numeric(df["Year"], errors="coerce")
+df["Value"] = pd.to_numeric(df["Value"], errors="coerce")
+df = df.dropna(subset=["Year", "Value"])
+
+# Pivot indicators into separate columns
+df_pivot = df.pivot(index="Year", columns="Indicator Name", values="Value").reset_index()
+df_pivot = df_pivot.sort_values("Year")
+
+print("Pivoted Bolivia dataset:")
+display(df_pivot)
+
+# Interpolate missing values for smooth plotting (optional)
+df_plot = df_pivot.interpolate(method='linear')
+
+# Plot the two indicators
+plt.figure(figsize=(10,6))
+plt.plot(df_plot["Year"], df_plot["Population in urban agglomerations of more than 1 million (% of total population)"], 
+         marker='o', linestyle='-', label="Population in urban agglomerations of more than 1 million (% of total population)")
+plt.plot(df_plot["Year"], df_plot["Urban population (% of total population)"], 
+         marker='o', linestyle='-', label="Urban population (% of total population)")
+
+plt.title("Bolivia: Population in urban agglomerations of more than 1 million (% of total population) vs Urban population (% of total population) (1960-2024)")
+plt.xlabel("Year")
+plt.ylabel("Percentage")
+plt.legend()
+plt.grid(True)
+plt.tight_layout()
+plt.savefig(os.path.join(figures_folder, "bolivia_pop_in_urban_agglomerations_vs_total_urban_pop.png"))
+plt.show()
+
+# Save cleaned CSV
+df_pivot.to_csv(os.path.join(data_clean_folder, "bolivia_pop_in_urban_agglomerations_vs_total_urban_pop"), index=False)
