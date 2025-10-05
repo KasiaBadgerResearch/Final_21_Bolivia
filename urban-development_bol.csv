@@ -1,0 +1,634 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Bolivia,BOL,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Bolivia,BOL,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Bolivia,BOL,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,0
+Bolivia,BOL,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Bolivia,BOL,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Bolivia,BOL,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0
+Bolivia,BOL,2015,Urban land area (sq. km),AG.LND.TOTL.UR.K2,1767.519043522
+Bolivia,BOL,2000,Urban land area (sq. km),AG.LND.TOTL.UR.K2,1503.991444238
+Bolivia,BOL,1990,Urban land area (sq. km),AG.LND.TOTL.UR.K2,1214.23819343
+Bolivia,BOL,2023,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9
+Bolivia,BOL,2022,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Bolivia,BOL,2021,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Bolivia,BOL,2020,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9
+Bolivia,BOL,2019,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Bolivia,BOL,2018,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Bolivia,BOL,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.4
+Bolivia,BOL,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Bolivia,BOL,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Bolivia,BOL,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.3
+Bolivia,BOL,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Bolivia,BOL,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2
+Bolivia,BOL,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.1
+Bolivia,BOL,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.8
+Bolivia,BOL,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.9
+Bolivia,BOL,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2
+Bolivia,BOL,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.2
+Bolivia,BOL,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.2
+Bolivia,BOL,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,89.9
+Bolivia,BOL,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.1
+Bolivia,BOL,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94
+Bolivia,BOL,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,88.6
+Bolivia,BOL,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.2
+Bolivia,BOL,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.8
+Bolivia,BOL,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.837216
+Bolivia,BOL,1998,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.1
+Bolivia,BOL,1997,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.815075
+Bolivia,BOL,1996,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.7
+Bolivia,BOL,1995,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.3611602783203
+Bolivia,BOL,1994,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93
+Bolivia,BOL,1993,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.038393
+Bolivia,BOL,1992,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.571038
+Bolivia,BOL,2020,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,22.879459074231
+Bolivia,BOL,2019,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,24.4849924422413
+Bolivia,BOL,2018,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.1667590386614
+Bolivia,BOL,2017,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.5418633872389
+Bolivia,BOL,2016,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,28.0546140290721
+Bolivia,BOL,2015,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,27.4574711709407
+Bolivia,BOL,2014,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.9415449050283
+Bolivia,BOL,2013,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.0957496962253
+Bolivia,BOL,2012,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,28.0697541353735
+Bolivia,BOL,2011,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,27.3182933267548
+Bolivia,BOL,2010,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,30.5811442072612
+Bolivia,BOL,2009,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,35.7228908896935
+Bolivia,BOL,2008,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,42.4702971845256
+Bolivia,BOL,2007,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,49.4380149483192
+Bolivia,BOL,2006,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,55.2406960376362
+Bolivia,BOL,2005,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,58.4929923090383
+Bolivia,BOL,2004,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,59.7162505298355
+Bolivia,BOL,2003,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,60.5276224516758
+Bolivia,BOL,2002,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,61.185467407628
+Bolivia,BOL,2001,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,61.9481447307606
+Bolivia,BOL,2000,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,63.0740137541425
+Bolivia,BOL,1999,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,65.3160345354498
+Bolivia,BOL,1998,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,68.7315400059974
+Bolivia,BOL,1997,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,72.5354488093124
+Bolivia,BOL,1996,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,75.9426795889217
+Bolivia,BOL,1995,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,78.1681509883521
+Bolivia,BOL,1994,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,79.4925462966465
+Bolivia,BOL,1993,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,80.6787881274545
+Bolivia,BOL,1992,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,81.6651541112124
+Bolivia,BOL,1991,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,82.3899218783568
+Bolivia,BOL,1990,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,82.7913690593244
+Bolivia,BOL,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9991320215104
+Bolivia,BOL,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9974859925192
+Bolivia,BOL,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,99.9997322955159
+Bolivia,BOL,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Bolivia,BOL,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Bolivia,BOL,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Bolivia,BOL,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Bolivia,BOL,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Bolivia,BOL,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Bolivia,BOL,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Bolivia,BOL,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Bolivia,BOL,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Bolivia,BOL,2022,Population density (people per sq. km of land area),EN.POP.DNST,11.1484851841595
+Bolivia,BOL,2021,Population density (people per sq. km of land area),EN.POP.DNST,11.0194405981723
+Bolivia,BOL,2020,Population density (people per sq. km of land area),EN.POP.DNST,10.9076885442629
+Bolivia,BOL,2019,Population density (people per sq. km of land area),EN.POP.DNST,10.7739185821102
+Bolivia,BOL,2018,Population density (people per sq. km of land area),EN.POP.DNST,10.6234357980246
+Bolivia,BOL,2017,Population density (people per sq. km of land area),EN.POP.DNST,10.4722486845749
+Bolivia,BOL,2016,Population density (people per sq. km of land area),EN.POP.DNST,10.3203360103388
+Bolivia,BOL,2015,Population density (people per sq. km of land area),EN.POP.DNST,10.1677328533186
+Bolivia,BOL,2014,Population density (people per sq. km of land area),EN.POP.DNST,10.0146662974245
+Bolivia,BOL,2013,Population density (people per sq. km of land area),EN.POP.DNST,9.86117234376442
+Bolivia,BOL,2012,Population density (people per sq. km of land area),EN.POP.DNST,9.7071974522293
+Bolivia,BOL,2011,Population density (people per sq. km of land area),EN.POP.DNST,9.55315148158405
+Bolivia,BOL,2010,Population density (people per sq. km of land area),EN.POP.DNST,9.39937690390474
+Bolivia,BOL,2009,Population density (people per sq. km of land area),EN.POP.DNST,9.24607680236315
+Bolivia,BOL,2008,Population density (people per sq. km of land area),EN.POP.DNST,9.09337948859965
+Bolivia,BOL,2007,Population density (people per sq. km of land area),EN.POP.DNST,8.94116126650051
+Bolivia,BOL,2006,Population density (people per sq. km of land area),EN.POP.DNST,8.78952183144097
+Bolivia,BOL,2005,Population density (people per sq. km of land area),EN.POP.DNST,8.64096187575002
+Bolivia,BOL,2004,Population density (people per sq. km of land area),EN.POP.DNST,8.49652635465707
+Bolivia,BOL,2003,Population density (people per sq. km of land area),EN.POP.DNST,8.35474937690391
+Bolivia,BOL,2002,Population density (people per sq. km of land area),EN.POP.DNST,8.21596510661866
+Bolivia,BOL,2001,Population density (people per sq. km of land area),EN.POP.DNST,8.07969722145297
+Bolivia,BOL,2000,Population density (people per sq. km of land area),EN.POP.DNST,7.94454537062679
+Bolivia,BOL,1999,Population density (people per sq. km of land area),EN.POP.DNST,7.80929197821471
+Bolivia,BOL,1998,Population density (people per sq. km of land area),EN.POP.DNST,7.67413828117788
+Bolivia,BOL,1997,Population density (people per sq. km of land area),EN.POP.DNST,7.53983199483061
+Bolivia,BOL,1996,Population density (people per sq. km of land area),EN.POP.DNST,7.40490722791471
+Bolivia,BOL,1995,Population density (people per sq. km of land area),EN.POP.DNST,7.26915535862642
+Bolivia,BOL,1994,Population density (people per sq. km of land area),EN.POP.DNST,7.1331320963722
+Bolivia,BOL,1993,Population density (people per sq. km of land area),EN.POP.DNST,6.99639527370073
+Bolivia,BOL,1992,Population density (people per sq. km of land area),EN.POP.DNST,6.8589827379304
+Bolivia,BOL,1991,Population density (people per sq. km of land area),EN.POP.DNST,6.7204735530324
+Bolivia,BOL,1990,Population density (people per sq. km of land area),EN.POP.DNST,6.58187205760177
+Bolivia,BOL,1989,Population density (people per sq. km of land area),EN.POP.DNST,6.44490538170405
+Bolivia,BOL,1988,Population density (people per sq. km of land area),EN.POP.DNST,6.30989384288747
+Bolivia,BOL,1987,Population density (people per sq. km of land area),EN.POP.DNST,6.17757038678113
+Bolivia,BOL,1986,Population density (people per sq. km of land area),EN.POP.DNST,6.04862826548509
+Bolivia,BOL,1985,Population density (people per sq. km of land area),EN.POP.DNST,5.92281454813994
+Bolivia,BOL,1984,Population density (people per sq. km of land area),EN.POP.DNST,5.79882581002492
+Bolivia,BOL,1983,Population density (people per sq. km of land area),EN.POP.DNST,5.67623003784732
+Bolivia,BOL,1982,Population density (people per sq. km of land area),EN.POP.DNST,5.55532908704883
+Bolivia,BOL,1981,Population density (people per sq. km of land area),EN.POP.DNST,5.43534477983938
+Bolivia,BOL,1980,Population density (people per sq. km of land area),EN.POP.DNST,5.31607126373119
+Bolivia,BOL,1979,Population density (people per sq. km of land area),EN.POP.DNST,5.19786670359088
+Bolivia,BOL,1978,Population density (people per sq. km of land area),EN.POP.DNST,5.08088525800794
+Bolivia,BOL,1977,Population density (people per sq. km of land area),EN.POP.DNST,4.96553678574725
+Bolivia,BOL,1976,Population density (people per sq. km of land area),EN.POP.DNST,4.85229945536786
+Bolivia,BOL,1975,Population density (people per sq. km of land area),EN.POP.DNST,4.74248961506508
+Bolivia,BOL,1974,Population density (people per sq. km of land area),EN.POP.DNST,4.63627342379766
+Bolivia,BOL,1973,Population density (people per sq. km of land area),EN.POP.DNST,4.53263177328533
+Bolivia,BOL,1972,Population density (people per sq. km of land area),EN.POP.DNST,4.43180836333426
+Bolivia,BOL,1971,Population density (people per sq. km of land area),EN.POP.DNST,4.33337210375704
+Bolivia,BOL,1970,Population density (people per sq. km of land area),EN.POP.DNST,4.23706267885166
+Bolivia,BOL,1969,Population density (people per sq. km of land area),EN.POP.DNST,4.14311086494969
+Bolivia,BOL,1968,Population density (people per sq. km of land area),EN.POP.DNST,4.05145758331026
+Bolivia,BOL,1967,Population density (people per sq. km of land area),EN.POP.DNST,3.96249607680236
+Bolivia,BOL,1966,Population density (people per sq. km of land area),EN.POP.DNST,3.87662697313763
+Bolivia,BOL,1965,Population density (people per sq. km of land area),EN.POP.DNST,3.79377457767931
+Bolivia,BOL,1964,Population density (people per sq. km of land area),EN.POP.DNST,3.71364903535493
+Bolivia,BOL,1963,Population density (people per sq. km of land area),EN.POP.DNST,3.63603157020216
+Bolivia,BOL,1962,Population density (people per sq. km of land area),EN.POP.DNST,3.56087233453337
+Bolivia,BOL,1961,Population density (people per sq. km of land area),EN.POP.DNST,3.48816671282193
+Bolivia,BOL,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Bolivia,BOL,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Bolivia,BOL,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0
+Bolivia,BOL,2022,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,46.62568
+Bolivia,BOL,2014,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,46.62568
+Bolivia,BOL,2012,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,46.62568
+Bolivia,BOL,2010,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,46.62568
+Bolivia,BOL,2008,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,48.88953
+Bolivia,BOL,2006,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,51.15337
+Bolivia,BOL,2004,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,53.41721
+Bolivia,BOL,2002,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,55.68105
+Bolivia,BOL,2000,Population living in slums (% of urban population),EN.POP.SLUM.UR.ZS,57.94489
+Bolivia,BOL,2024,Population in largest city,EN.URB.LCTY,1965570
+Bolivia,BOL,2023,Population in largest city,EN.URB.LCTY,1935619
+Bolivia,BOL,2022,Population in largest city,EN.URB.LCTY,1907686
+Bolivia,BOL,2021,Population in largest city,EN.URB.LCTY,1881796
+Bolivia,BOL,2020,Population in largest city,EN.URB.LCTY,1857797
+Bolivia,BOL,2019,Population in largest city,EN.URB.LCTY,1835355
+Bolivia,BOL,2018,Population in largest city,EN.URB.LCTY,1814087
+Bolivia,BOL,2017,Population in largest city,EN.URB.LCTY,1790827
+Bolivia,BOL,2016,Population in largest city,EN.URB.LCTY,1767866
+Bolivia,BOL,2015,Population in largest city,EN.URB.LCTY,1745199
+Bolivia,BOL,2014,Population in largest city,EN.URB.LCTY,1722823
+Bolivia,BOL,2013,Population in largest city,EN.URB.LCTY,1700734
+Bolivia,BOL,2012,Population in largest city,EN.URB.LCTY,1678928
+Bolivia,BOL,2011,Population in largest city,EN.URB.LCTY,1657342
+Bolivia,BOL,2010,Population in largest city,EN.URB.LCTY,1636062
+Bolivia,BOL,2009,Population in largest city,EN.URB.LCTY,1615056
+Bolivia,BOL,2008,Population in largest city,EN.URB.LCTY,1594348
+Bolivia,BOL,2007,Population in largest city,EN.URB.LCTY,1573850
+Bolivia,BOL,2006,Population in largest city,EN.URB.LCTY,1553643
+Bolivia,BOL,2005,Population in largest city,EN.URB.LCTY,1533695
+Bolivia,BOL,2004,Population in largest city,EN.URB.LCTY,1514030
+Bolivia,BOL,2003,Population in largest city,EN.URB.LCTY,1494564
+Bolivia,BOL,2002,Population in largest city,EN.URB.LCTY,1475375
+Bolivia,BOL,2001,Population in largest city,EN.URB.LCTY,1452891
+Bolivia,BOL,2000,Population in largest city,EN.URB.LCTY,1415108
+Bolivia,BOL,1999,Population in largest city,EN.URB.LCTY,1378207
+Bolivia,BOL,1998,Population in largest city,EN.URB.LCTY,1342318
+Bolivia,BOL,1997,Population in largest city,EN.URB.LCTY,1307363
+Bolivia,BOL,1996,Population in largest city,EN.URB.LCTY,1273364
+Bolivia,BOL,1995,Population in largest city,EN.URB.LCTY,1240160
+Bolivia,BOL,1994,Population in largest city,EN.URB.LCTY,1207865
+Bolivia,BOL,1993,Population in largest city,EN.URB.LCTY,1176412
+Bolivia,BOL,1992,Population in largest city,EN.URB.LCTY,1145819
+Bolivia,BOL,1991,Population in largest city,EN.URB.LCTY,1114568
+Bolivia,BOL,1990,Population in largest city,EN.URB.LCTY,1084100
+Bolivia,BOL,1989,Population in largest city,EN.URB.LCTY,1054466
+Bolivia,BOL,1988,Population in largest city,EN.URB.LCTY,1025680
+Bolivia,BOL,1987,Population in largest city,EN.URB.LCTY,997604
+Bolivia,BOL,1986,Population in largest city,EN.URB.LCTY,970334
+Bolivia,BOL,1985,Population in largest city,EN.URB.LCTY,943809
+Bolivia,BOL,1984,Population in largest city,EN.URB.LCTY,918045
+Bolivia,BOL,1983,Population in largest city,EN.URB.LCTY,892915
+Bolivia,BOL,1982,Population in largest city,EN.URB.LCTY,868507
+Bolivia,BOL,1981,Population in largest city,EN.URB.LCTY,844765
+Bolivia,BOL,1980,Population in largest city,EN.URB.LCTY,821704
+Bolivia,BOL,1979,Population in largest city,EN.URB.LCTY,799212
+Bolivia,BOL,1978,Population in largest city,EN.URB.LCTY,777365
+Bolivia,BOL,1977,Population in largest city,EN.URB.LCTY,756115
+Bolivia,BOL,1976,Population in largest city,EN.URB.LCTY,734698
+Bolivia,BOL,1975,Population in largest city,EN.URB.LCTY,711523
+Bolivia,BOL,1974,Population in largest city,EN.URB.LCTY,689109
+Bolivia,BOL,1973,Population in largest city,EN.URB.LCTY,667401
+Bolivia,BOL,1972,Population in largest city,EN.URB.LCTY,646405
+Bolivia,BOL,1971,Population in largest city,EN.URB.LCTY,626014
+Bolivia,BOL,1970,Population in largest city,EN.URB.LCTY,606294
+Bolivia,BOL,1969,Population in largest city,EN.URB.LCTY,587195
+Bolivia,BOL,1968,Population in largest city,EN.URB.LCTY,568722
+Bolivia,BOL,1967,Population in largest city,EN.URB.LCTY,550782
+Bolivia,BOL,1966,Population in largest city,EN.URB.LCTY,533432
+Bolivia,BOL,1965,Population in largest city,EN.URB.LCTY,516628
+Bolivia,BOL,1964,Population in largest city,EN.URB.LCTY,500375
+Bolivia,BOL,1963,Population in largest city,EN.URB.LCTY,484591
+Bolivia,BOL,1962,Population in largest city,EN.URB.LCTY,469325
+Bolivia,BOL,1961,Population in largest city,EN.URB.LCTY,454541
+Bolivia,BOL,1960,Population in largest city,EN.URB.LCTY,440242
+Bolivia,BOL,2024,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.1320407615898
+Bolivia,BOL,2023,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.2073290120715
+Bolivia,BOL,2022,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.3010368649588
+Bolivia,BOL,2021,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.368104807239
+Bolivia,BOL,2020,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.4210690322152
+Bolivia,BOL,2019,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.537734500599
+Bolivia,BOL,2018,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.7053660695467
+Bolivia,BOL,2017,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.8513887164484
+Bolivia,BOL,2016,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,23.0043453921849
+Bolivia,BOL,2015,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,23.1665008913108
+Bolivia,BOL,2014,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,23.3370760475367
+Bolivia,BOL,2013,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,23.5167247209942
+Bolivia,BOL,2012,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,23.717977062221
+Bolivia,BOL,2011,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,23.9474576645889
+Bolivia,BOL,2010,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,24.187316273544
+Bolivia,BOL,2009,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,24.4367080190022
+Bolivia,BOL,2008,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,24.696519077537
+Bolivia,BOL,2007,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,24.9666233912919
+Bolivia,BOL,2006,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,25.2473927377079
+Bolivia,BOL,2005,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,25.5326633366607
+Bolivia,BOL,2004,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,25.81843587375
+Bolivia,BOL,2003,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.1087169682972
+Bolivia,BOL,2002,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.4029843000335
+Bolivia,BOL,2001,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.6415389806142
+Bolivia,BOL,2000,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.6118247905866
+Bolivia,BOL,1999,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.5918566277483
+Bolivia,BOL,1998,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.5833338614414
+Bolivia,BOL,1997,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.5829221952739
+Bolivia,BOL,1996,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.5975036824819
+Bolivia,BOL,1995,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.6250396372076
+Bolivia,BOL,1994,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.6673952448133
+Bolivia,BOL,1993,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.7249684853499
+Bolivia,BOL,1992,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.7997118458937
+Bolivia,BOL,1991,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,27.0584336683972
+Bolivia,BOL,1990,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,27.3574785393564
+Bolivia,BOL,1989,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,27.6761276843691
+Bolivia,BOL,1988,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.0140704006197
+Bolivia,BOL,1987,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.3679077671339
+Bolivia,BOL,1986,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.7351413460001
+Bolivia,BOL,1985,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.1173887276242
+Bolivia,BOL,1984,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.5212581227715
+Bolivia,BOL,1983,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.9491888632077
+Bolivia,BOL,1982,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,30.4002545410124
+Bolivia,BOL,1981,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,30.8809138321738
+Bolivia,BOL,1980,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,31.3929668176772
+Bolivia,BOL,1979,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,31.9363137447962
+Bolivia,BOL,1978,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,32.5107555055182
+Bolivia,BOL,1977,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,33.1158646853311
+Bolivia,BOL,1976,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,33.5790716849089
+Bolivia,BOL,1975,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,33.5225107101313
+Bolivia,BOL,1974,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,33.4613793424932
+Bolivia,BOL,1973,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,33.3991907939677
+Bolivia,BOL,1972,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,33.3358775122262
+Bolivia,BOL,1971,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,33.2705494194791
+Bolivia,BOL,1970,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,33.2084512318962
+Bolivia,BOL,1969,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,33.1466747200826
+Bolivia,BOL,1968,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,33.0849681263358
+Bolivia,BOL,1967,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,33.0169604101239
+Bolivia,BOL,1966,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,32.9420541170775
+Bolivia,BOL,1965,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,32.8584194341357
+Bolivia,BOL,1964,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,32.7683071939982
+Bolivia,BOL,1963,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,32.671177970884
+Bolivia,BOL,1962,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,32.5684017975856
+Bolivia,BOL,1961,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,32.4588677197292
+Bolivia,BOL,1960,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,32.3458099934756
+Bolivia,BOL,2024,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5251990
+Bolivia,BOL,2023,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5155983
+Bolivia,BOL,2022,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5060978
+Bolivia,BOL,2021,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4967088
+Bolivia,BOL,2020,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4874392
+Bolivia,BOL,2019,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4782916
+Bolivia,BOL,2018,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4692891
+Bolivia,BOL,2017,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4597591
+Bolivia,BOL,2016,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4504412
+Bolivia,BOL,2015,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4413302
+Bolivia,BOL,2014,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4324214
+Bolivia,BOL,2013,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4237098
+Bolivia,BOL,2012,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4151908
+Bolivia,BOL,2011,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4068372
+Bolivia,BOL,2010,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3986791
+Bolivia,BOL,2009,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3907009
+Bolivia,BOL,2008,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3829089
+Bolivia,BOL,2007,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3752669
+Bolivia,BOL,2006,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3678029
+Bolivia,BOL,2005,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3605021
+Bolivia,BOL,2004,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3533707
+Bolivia,BOL,2003,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3463757
+Bolivia,BOL,2002,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3395425
+Bolivia,BOL,2001,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3318440
+Bolivia,BOL,2000,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3199111
+Bolivia,BOL,1999,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3084102
+Bolivia,BOL,1998,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2973705
+Bolivia,BOL,1997,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2867572
+Bolivia,BOL,1996,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2765666
+Bolivia,BOL,1995,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2667405
+Bolivia,BOL,1994,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2573042
+Bolivia,BOL,1993,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2482283
+Bolivia,BOL,1992,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2395099
+Bolivia,BOL,1991,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2293729
+Bolivia,BOL,1990,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2195978
+Bolivia,BOL,1989,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2102939
+Bolivia,BOL,1988,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2014482
+Bolivia,BOL,1987,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1930015
+Bolivia,BOL,1986,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1849674
+Bolivia,BOL,1985,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1773130
+Bolivia,BOL,1984,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1700286
+Bolivia,BOL,1983,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1630656
+Bolivia,BOL,1982,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1564363
+Bolivia,BOL,1981,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1501139
+Bolivia,BOL,1980,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1440909
+Bolivia,BOL,1979,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1383282
+Bolivia,BOL,1978,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1328359
+Bolivia,BOL,1977,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1275925
+Bolivia,BOL,1976,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1225815
+Bolivia,BOL,1975,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1177482
+Bolivia,BOL,1974,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1131346
+Bolivia,BOL,1973,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1087234
+Bolivia,BOL,1972,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1045101
+Bolivia,BOL,1971,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1004680
+Bolivia,BOL,1970,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,966057
+Bolivia,BOL,1969,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,929088
+Bolivia,BOL,1968,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,893738
+Bolivia,BOL,1967,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,859790
+Bolivia,BOL,1966,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,827318
+Bolivia,BOL,1965,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,796202
+Bolivia,BOL,1964,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,766420
+Bolivia,BOL,1963,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,737792
+Bolivia,BOL,1962,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,710379
+Bolivia,BOL,1961,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,684087
+Bolivia,BOL,1960,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,658900
+Bolivia,BOL,2024,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,42.3093267189304
+Bolivia,BOL,2023,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,42.1097357523698
+Bolivia,BOL,2022,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,41.9053859874603
+Bolivia,BOL,2021,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,41.6096021230825
+Bolivia,BOL,2020,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,41.251427371633
+Bolivia,BOL,2019,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,40.9798459240402
+Bolivia,BOL,2018,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,40.7780755707499
+Bolivia,BOL,2017,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,40.5267375533371
+Bolivia,BOL,2016,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,40.2898384797165
+Bolivia,BOL,2015,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,40.0673644913777
+Bolivia,BOL,2014,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.8585919589178
+Bolivia,BOL,2013,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.6635166244048
+Bolivia,BOL,2012,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.4825428043706
+Bolivia,BOL,2011,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.3120099674082
+Bolivia,BOL,2010,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.1539571680197
+Bolivia,BOL,2009,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,39.0066067475184
+Bolivia,BOL,2008,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.8706141130042
+Bolivia,BOL,2007,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.7433873358965
+Bolivia,BOL,2006,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.6279051962315
+Bolivia,BOL,2005,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.5120792619911
+Bolivia,BOL,2004,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.3919688727655
+Bolivia,BOL,2003,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.2705978543096
+Bolivia,BOL,2002,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,38.1493210102294
+Bolivia,BOL,2001,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,37.9131736636407
+Bolivia,BOL,2000,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,37.1716223624343
+Bolivia,BOL,1999,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,36.4559423703097
+Bolivia,BOL,1998,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,35.7700477085532
+Bolivia,BOL,1997,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,35.1078245326216
+Bolivia,BOL,1996,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,34.4771505818691
+Bolivia,BOL,1995,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,33.8732031641683
+Bolivia,BOL,1994,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,33.2979782646562
+Bolivia,BOL,1993,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,32.751275036465
+Bolivia,BOL,1992,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,32.2340604785571
+Bolivia,BOL,1991,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,31.5060157639346
+Bolivia,BOL,1990,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,30.798517056182
+Bolivia,BOL,1989,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,30.1204451710355
+Bolivia,BOL,1988,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,29.4708454733723
+Bolivia,BOL,1987,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,28.8399324463454
+Bolivia,BOL,1986,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,28.2286139337493
+Bolivia,BOL,1985,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,27.6352692448862
+Bolivia,BOL,1984,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,27.0665668237537
+Bolivia,BOL,1983,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,26.5187849850221
+Bolivia,BOL,1982,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.9943523590881
+Bolivia,BOL,1981,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.4944159491613
+Bolivia,BOL,1980,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,25.0205594818455
+Bolivia,BOL,1979,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.5661355863032
+Bolivia,BOL,1978,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.1338901765095
+Bolivia,BOL,1977,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.719755069838
+Bolivia,BOL,1976,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.3200025263978
+Bolivia,BOL,1975,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.9191836791896
+Bolivia,BOL,1974,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.5256671262674
+Bolivia,BOL,1973,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.1423567268136
+Bolivia,BOL,1972,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.7685021676833
+Bolivia,BOL,1971,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.4019344990203
+Bolivia,BOL,1970,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.0469476101359
+Bolivia,BOL,1969,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.7005341969845
+Bolivia,BOL,1968,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.3633949305345
+Bolivia,BOL,1967,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.0297164497183
+Bolivia,BOL,1966,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.7001583502994
+Bolivia,BOL,1965,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.3732730286369
+Bolivia,BOL,1964,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.0509759393248
+Bolivia,BOL,1963,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.7308529028186
+Bolivia,BOL,1962,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.4155616095739
+Bolivia,BOL,1961,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.103617325499
+Bolivia,BOL,1960,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.7969345192194
+Bolivia,BOL,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,21.1
+Bolivia,BOL,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,20.7
+Bolivia,BOL,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,20.3
+Bolivia,BOL,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.3
+Bolivia,BOL,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,18.8
+Bolivia,BOL,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,19.9
+Bolivia,BOL,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,23.5
+Bolivia,BOL,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,23
+Bolivia,BOL,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,17.5
+Bolivia,BOL,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,17.3
+Bolivia,BOL,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16.6
+Bolivia,BOL,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,17.2
+Bolivia,BOL,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15
+Bolivia,BOL,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,20.9
+Bolivia,BOL,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.2
+Bolivia,BOL,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.1
+Bolivia,BOL,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.1
+Bolivia,BOL,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.2
+Bolivia,BOL,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.8
+Bolivia,BOL,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.5
+Bolivia,BOL,2024,Urban population growth (annual %),SP.URB.GROW,1.87511109176737
+Bolivia,BOL,2023,Urban population growth (annual %),SP.URB.GROW,1.87469862115431
+Bolivia,BOL,2022,Urban population growth (annual %),SP.URB.GROW,1.6667227345521
+Bolivia,BOL,2021,Urban population growth (annual %),SP.URB.GROW,1.52003097648254
+Bolivia,BOL,2020,Urban population growth (annual %),SP.URB.GROW,1.73433486670306
+Bolivia,BOL,2019,Urban population growth (annual %),SP.URB.GROW,1.90659063320954
+Bolivia,BOL,2018,Urban population growth (annual %),SP.URB.GROW,1.9315390070026
+Bolivia,BOL,2017,Urban population growth (annual %),SP.URB.GROW,1.95755921923706
+Bolivia,BOL,2016,Urban population growth (annual %),SP.URB.GROW,1.99287601481525
+Bolivia,BOL,2015,Urban population growth (annual %),SP.URB.GROW,2.02403992475687
+Bolivia,BOL,2014,Urban population growth (annual %),SP.URB.GROW,2.05728176023563
+Bolivia,BOL,2013,Urban population growth (annual %),SP.URB.GROW,2.1425856240932
+Bolivia,BOL,2012,Urban population growth (annual %),SP.URB.GROW,2.25692602498467
+Bolivia,BOL,2011,Urban population growth (annual %),SP.URB.GROW,2.28891878822834
+Bolivia,BOL,2010,Urban population growth (annual %),SP.URB.GROW,2.31805577324424
+Bolivia,BOL,2009,Urban population growth (annual %),SP.URB.GROW,2.34806326378482
+Bolivia,BOL,2008,Urban population growth (annual %),SP.URB.GROW,2.38175912431144
+Bolivia,BOL,2007,Urban population growth (annual %),SP.URB.GROW,2.41053749777898
+Bolivia,BOL,2006,Urban population growth (annual %),SP.URB.GROW,2.41582944227561
+Bolivia,BOL,2005,Urban population growth (annual %),SP.URB.GROW,2.40351445402019
+Bolivia,BOL,2004,Urban population growth (annual %),SP.URB.GROW,2.41208808999582
+Bolivia,BOL,2003,Urban population growth (annual %),SP.URB.GROW,2.41301341479296
+Bolivia,BOL,2002,Urban population growth (annual %),SP.URB.GROW,2.4351398313354
+Bolivia,BOL,2001,Urban population growth (annual %),SP.URB.GROW,2.52335557594078
+Bolivia,BOL,2000,Urban population growth (annual %),SP.URB.GROW,2.56718433488277
+Bolivia,BOL,1999,Urban population growth (annual %),SP.URB.GROW,2.60648545364961
+Bolivia,BOL,1998,Urban population growth (annual %),SP.URB.GROW,2.63703528938741
+Bolivia,BOL,1997,Urban population growth (annual %),SP.URB.GROW,2.68982919142176
+Bolivia,BOL,1996,Urban population growth (annual %),SP.URB.GROW,2.74565617682723
+Bolivia,BOL,1995,Urban population growth (annual %),SP.URB.GROW,2.79756198135254
+Bolivia,BOL,1994,Urban population growth (annual %),SP.URB.GROW,2.85418204205092
+Bolivia,BOL,1993,Urban population growth (annual %),SP.URB.GROW,2.91423208518185
+Bolivia,BOL,1992,Urban population growth (annual %),SP.URB.GROW,3.7260381241291
+Bolivia,BOL,1991,Urban population growth (annual %),SP.URB.GROW,3.87079286471436
+Bolivia,BOL,1990,Urban population growth (annual %),SP.URB.GROW,3.92959673463091
+Bolivia,BOL,1989,Urban population growth (annual %),SP.URB.GROW,3.98153434832813
+Bolivia,BOL,1988,Urban population growth (annual %),SP.URB.GROW,4.03062820255431
+Bolivia,BOL,1987,Urban population growth (annual %),SP.URB.GROW,4.05783747241101
+Bolivia,BOL,1986,Urban population growth (annual %),SP.URB.GROW,4.09312625568626
+Bolivia,BOL,1985,Urban population growth (annual %),SP.URB.GROW,4.14524778051736
+Bolivia,BOL,1984,Urban population growth (annual %),SP.URB.GROW,4.21466404552792
+Bolivia,BOL,1983,Urban population growth (annual %),SP.URB.GROW,4.2664486327175
+Bolivia,BOL,1982,Urban population growth (annual %),SP.URB.GROW,4.3404499645295
+Bolivia,BOL,1981,Urban population growth (annual %),SP.URB.GROW,4.4123812685282
+Bolivia,BOL,1980,Urban population growth (annual %),SP.URB.GROW,4.49138337720986
+Bolivia,BOL,1979,Urban population growth (annual %),SP.URB.GROW,4.55434956646749
+Bolivia,BOL,1978,Urban population growth (annual %),SP.URB.GROW,4.61580044917047
+Bolivia,BOL,1977,Urban population growth (annual %),SP.URB.GROW,4.26244937898914
+Bolivia,BOL,1976,Urban population growth (annual %),SP.URB.GROW,3.03659556196648
+Bolivia,BOL,1975,Urban population growth (annual %),SP.URB.GROW,3.0183027959114
+Bolivia,BOL,1974,Urban population growth (annual %),SP.URB.GROW,3.01481477532367
+Bolivia,BOL,1973,Urban population growth (annual %),SP.URB.GROW,3.00673701529742
+Bolivia,BOL,1972,Urban population growth (annual %),SP.URB.GROW,3.00918913390026
+Bolivia,BOL,1971,Urban population growth (annual %),SP.URB.GROW,3.01395129810384
+Bolivia,BOL,1970,Urban population growth (annual %),SP.URB.GROW,3.01460574510188
+Bolivia,BOL,1969,Urban population growth (annual %),SP.URB.GROW,3.0101866572632
+Bolivia,BOL,1968,Urban population growth (annual %),SP.URB.GROW,2.99949888861258
+Bolivia,BOL,1967,Urban population growth (annual %),SP.URB.GROW,2.97361850300734
+Bolivia,BOL,1966,Urban population growth (annual %),SP.URB.GROW,2.94664520129166
+Bolivia,BOL,1965,Urban population growth (annual %),SP.URB.GROW,2.92190551557417
+Bolivia,BOL,1964,Urban population growth (annual %),SP.URB.GROW,2.90840585478798
+Bolivia,BOL,1963,Urban population growth (annual %),SP.URB.GROW,2.88590106785069
+Bolivia,BOL,1962,Urban population growth (annual %),SP.URB.GROW,2.86385044795684
+Bolivia,BOL,1961,Urban population growth (annual %),SP.URB.GROW,2.84743551902186
+Bolivia,BOL,2024,Urban population,SP.URB.TOTL,8881106
+Bolivia,BOL,2023,Urban population,SP.URB.TOTL,8716127
+Bolivia,BOL,2022,Urban population,SP.URB.TOTL,8554248
+Bolivia,BOL,2021,Urban population,SP.URB.TOTL,8412854
+Bolivia,BOL,2020,Urban population,SP.URB.TOTL,8285943
+Bolivia,BOL,2019,Urban population,SP.URB.TOTL,8143476
+Bolivia,BOL,2018,Urban population,SP.URB.TOTL,7989684
+Bolivia,BOL,2017,Urban population,SP.URB.TOTL,7836841
+Bolivia,BOL,2016,Urban population,SP.URB.TOTL,7684922
+Bolivia,BOL,2015,Urban population,SP.URB.TOTL,7533287
+Bolivia,BOL,2014,Urban population,SP.URB.TOTL,7382343
+Bolivia,BOL,2013,Urban population,SP.URB.TOTL,7232019
+Bolivia,BOL,2012,Urban population,SP.URB.TOTL,7078715
+Bolivia,BOL,2011,Urban population,SP.URB.TOTL,6920743
+Bolivia,BOL,2010,Urban population,SP.URB.TOTL,6764132
+Bolivia,BOL,2009,Urban population,SP.URB.TOTL,6609139
+Bolivia,BOL,2008,Urban population,SP.URB.TOTL,6455760
+Bolivia,BOL,2007,Urban population,SP.URB.TOTL,6303816
+Bolivia,BOL,2006,Urban population,SP.URB.TOTL,6153677
+Bolivia,BOL,2005,Urban population,SP.URB.TOTL,6006796
+Bolivia,BOL,2004,Urban population,SP.URB.TOTL,5864143
+Bolivia,BOL,2003,Urban population,SP.URB.TOTL,5724387
+Bolivia,BOL,2002,Urban population,SP.URB.TOTL,5587910
+Bolivia,BOL,2001,Urban population,SP.URB.TOTL,5453480
+Bolivia,BOL,2000,Urban population,SP.URB.TOTL,5317591
+Bolivia,BOL,1999,Urban population,SP.URB.TOTL,5182816
+Bolivia,BOL,1998,Urban population,SP.URB.TOTL,5049472
+Bolivia,BOL,1997,Urban population,SP.URB.TOTL,4918056
+Bolivia,BOL,1996,Urban population,SP.URB.TOTL,4787532
+Bolivia,BOL,1995,Urban population,SP.URB.TOTL,4657871
+Bolivia,BOL,1994,Urban population,SP.URB.TOTL,4529370
+Bolivia,BOL,1993,Urban population,SP.URB.TOTL,4401921
+Bolivia,BOL,1992,Urban population,SP.URB.TOTL,4275490
+Bolivia,BOL,1991,Urban population,SP.URB.TOTL,4119115
+Bolivia,BOL,1990,Urban population,SP.URB.TOTL,3962719
+Bolivia,BOL,1989,Urban population,SP.URB.TOTL,3810020
+Bolivia,BOL,1988,Urban population,SP.URB.TOTL,3661303
+Bolivia,BOL,1987,Urban population,SP.URB.TOTL,3516664
+Bolivia,BOL,1986,Urban population,SP.URB.TOTL,3376820
+Bolivia,BOL,1985,Urban population,SP.URB.TOTL,3241393
+Bolivia,BOL,1984,Urban population,SP.URB.TOTL,3109776
+Bolivia,BOL,1983,Urban population,SP.URB.TOTL,2981433
+Bolivia,BOL,1982,Urban population,SP.URB.TOTL,2856907
+Bolivia,BOL,1981,Urban population,SP.URB.TOTL,2735557
+Bolivia,BOL,1980,Urban population,SP.URB.TOTL,2617478
+Bolivia,BOL,1979,Urban population,SP.URB.TOTL,2502518
+Bolivia,BOL,1978,Urban population,SP.URB.TOTL,2391101
+Bolivia,BOL,1977,Urban population,SP.URB.TOTL,2283241
+Bolivia,BOL,1976,Urban population,SP.URB.TOTL,2187964
+Bolivia,BOL,1975,Urban population,SP.URB.TOTL,2122523
+Bolivia,BOL,1974,Urban population,SP.URB.TOTL,2059416
+Bolivia,BOL,1973,Urban population,SP.URB.TOTL,1998255
+Bolivia,BOL,1972,Urban population,SP.URB.TOTL,1939067
+Bolivia,BOL,1971,Urban population,SP.URB.TOTL,1881586
+Bolivia,BOL,1970,Urban population,SP.URB.TOTL,1825722
+Bolivia,BOL,1969,Urban population,SP.URB.TOTL,1771505
+Bolivia,BOL,1968,Urban population,SP.URB.TOTL,1718974
+Bolivia,BOL,1967,Urban population,SP.URB.TOTL,1668179
+Bolivia,BOL,1966,Urban population,SP.URB.TOTL,1619304
+Bolivia,BOL,1965,Urban population,SP.URB.TOTL,1572285
+Bolivia,BOL,1964,Urban population,SP.URB.TOTL,1527009
+Bolivia,BOL,1963,Urban population,SP.URB.TOTL,1483237
+Bolivia,BOL,1962,Urban population,SP.URB.TOTL,1441044
+Bolivia,BOL,1961,Urban population,SP.URB.TOTL,1400360
+Bolivia,BOL,1960,Urban population,SP.URB.TOTL,1361048
+Bolivia,BOL,2024,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.545
+Bolivia,BOL,2023,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.186
+Bolivia,BOL,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.83
+Bolivia,BOL,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.475
+Bolivia,BOL,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.123
+Bolivia,BOL,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.773
+Bolivia,BOL,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.425
+Bolivia,BOL,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.08
+Bolivia,BOL,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.738
+Bolivia,BOL,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.393
+Bolivia,BOL,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.047
+Bolivia,BOL,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.699
+Bolivia,BOL,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.315
+Bolivia,BOL,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.874
+Bolivia,BOL,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.43
+Bolivia,BOL,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.984
+Bolivia,BOL,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.535
+Bolivia,BOL,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.082
+Bolivia,BOL,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.628
+Bolivia,BOL,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.17
+Bolivia,BOL,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.711
+Bolivia,BOL,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.248
+Bolivia,BOL,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.783
+Bolivia,BOL,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.306
+Bolivia,BOL,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.787
+Bolivia,BOL,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.264
+Bolivia,BOL,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.739
+Bolivia,BOL,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.212
+Bolivia,BOL,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.682
+Bolivia,BOL,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.15
+Bolivia,BOL,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.615
+Bolivia,BOL,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.079
+Bolivia,BOL,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,57.541
+Bolivia,BOL,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.579
+Bolivia,BOL,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.577
+Bolivia,BOL,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.571
+Bolivia,BOL,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.563
+Bolivia,BOL,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,52.549
+Bolivia,BOL,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.535
+Bolivia,BOL,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.519
+Bolivia,BOL,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.504
+Bolivia,BOL,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.486
+Bolivia,BOL,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.472
+Bolivia,BOL,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.459
+Bolivia,BOL,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.451
+Bolivia,BOL,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,44.443
+Bolivia,BOL,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.442
+Bolivia,BOL,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.446
+Bolivia,BOL,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.624
+Bolivia,BOL,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.314
+Bolivia,BOL,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.004
+Bolivia,BOL,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.696
+Bolivia,BOL,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.389
+Bolivia,BOL,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.082
+Bolivia,BOL,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.776
+Bolivia,BOL,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.47
+Bolivia,BOL,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.166
+Bolivia,BOL,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.862
+Bolivia,BOL,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.559
+Bolivia,BOL,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.257
+Bolivia,BOL,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.957
+Bolivia,BOL,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.656
+Bolivia,BOL,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.357
+Bolivia,BOL,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.059
+Bolivia,BOL,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.762
